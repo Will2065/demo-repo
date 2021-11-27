@@ -12,3 +12,5 @@ watch tutorial on Youtube
 2. close it
 3. test it
 4. new branch
+5. another new branch to new local
+6. from local to remote
