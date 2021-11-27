@@ -14,3 +14,4 @@ watch tutorial on Youtube
 4. new branch
 5. another new branch to new local
 6. from local to remote
+7. another local to remote
